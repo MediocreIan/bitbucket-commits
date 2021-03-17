@@ -1,1 +1,1 @@
-console.log("yjgin")
+console.log("kinat")
